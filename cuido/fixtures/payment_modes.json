@@ -1,0 +1,23 @@
+[
+  {
+    "model": "cuido.payment",
+    "pk": 1,
+    "fields": {
+      "name": "Google Pay"
+    }
+  },
+  {
+    "model": "cuido.payment",
+    "pk": 2,
+    "fields": {
+      "name": "PhonePe"
+    }
+  },
+  {
+    "model": "cuido.payment",
+    "pk": 3,
+    "fields": {
+      "name": "PayTM"
+    }
+  }
+]
